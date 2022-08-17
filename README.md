@@ -14,6 +14,11 @@
     4.需要安装Fiddler抓包工具，可以从下方爱盘下载
     https://down.52pojie.cn/Tools/Network_Analyzer/Fiddler.7z
     
+    5.计算机名不能带有中文
+    修改方法（win10）：【此电脑】-【系统属性】-【关于】-【重命名这台电脑】
+![image](img/5.jpg)
+
+    
 
 ## 使用
     1.先打开M3U8批量下载器，并出现【http接口初始化完成，端口：8787】表示软件启动成功
