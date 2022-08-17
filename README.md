@@ -25,7 +25,7 @@
     然后粘贴本项目的【main.js】中的代码到【OnBeforeResponse】函数内，如上图。最后点击上方的【Save Script】
 ![image](img/2.jpg)
 
-    3.双击运行本项目的【polyvserver.exe】，出现【Starting http server listen at 127.0.0.1:7809】，说明软件启动成功
+    3.双击运行本项目的【server.exe】，出现【Starting http server listen at 127.0.0.1:7809】，说明软件启动成功
 ![image](img/3.jpg)
 
     4.所有初始工作已经做完，这时可以随意打开浏览器播放视频，会自动捕获视频并进行下载
