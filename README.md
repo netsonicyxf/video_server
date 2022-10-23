@@ -86,4 +86,7 @@
     2.感谢mpd类型命令行下载工具 https://github.com/nilaoda/N_m3u8DL-RE
   
     
+# 更新日志
 
+### 2022.10.23
+    1.优化文件名显示
