@@ -98,8 +98,7 @@
 
 
 ## 鸣谢
-    1.感谢提供可用CDM（2022.10.18）https://github.com/Jnzzi/4464_L3-CDM
-    2.感谢mpd类型命令行下载工具 https://github.com/nilaoda/N_m3u8DL-RE
+    1.感谢mpd类型命令行下载工具 https://github.com/nilaoda/N_m3u8DL-RE
   
     
 # 更新日志
